@@ -1,6 +1,13 @@
 {
-    "name": "codeigniter4/appstarter",
-    "description": "CodeIgniter4 starter app",
+    "name": "202411088/jdelrosario-ta2",
+    "description": "My TA2 Project - CodeIgniter 4",
+    "authors": [
+        {
+            "name": "Jairus Gabriel Del Rosario",
+            "email": "jdelrosario@fit.edu.ph",
+            "role": "Developer / Student"
+        }
+     ],
     "license": "MIT",
     "type": "project",
     "homepage": "https://codeigniter.com",
